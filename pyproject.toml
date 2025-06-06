@@ -1,0 +1,5 @@
+[project]
+name = "loogle"
+version = "0.1.0"
+description = "ACL 2024 | LooGLE: Long Context Evaluation for Long-Context Language Models"
+requires-python = ">=3.10"
